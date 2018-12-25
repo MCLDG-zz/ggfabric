@@ -1,0 +1,1 @@
+zip -r fabric-lambda.zip greengrasssdk fabric.py

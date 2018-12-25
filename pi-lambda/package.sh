@@ -1,0 +1,1 @@
+zip -r pi-lambda.zip greengrasssdk pi.py
